@@ -1,0 +1,5 @@
+,meal_plan,reserved_room_type,market_segment,is_canceled,arrival_date_full
+count,36238,36238,36238,36238,36238
+unique,4,7,5,2,549
+top,Meal Plan 1,Room_Type 1,Online,Not_Canceled,2018-10-13
+freq,27802,28105,23194,24360,254

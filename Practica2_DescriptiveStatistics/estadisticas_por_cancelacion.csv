@@ -1,0 +1,3 @@
+is_canceled,count,mean,min,max
+Canceled,11878,110.60793315372959,0.0,540.0
+Not_Canceled,24360,99.94081978653531,0.0,375.5
